@@ -1,3 +1,12 @@
 h1 {
-		color: red;
+		color: orange;
+}
+#hair{
+	font-size: 30px;
+}
+.shirt{
+	background-color: red;
+}
+article {
+	width: 200px;
 }
